@@ -15,7 +15,8 @@
 
 ## 📷 Screenshoty
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://cdn.discordapp.com/attachments/1184197305239359619/1184197319151861860/image.png?ex=658b18b2&is=6578a3b2&hm=3f05f559ea3de8d87adc0b38184921c5286e4085b966a634d581d788b7d768af&)
+![App Screenshot](https://cdn.discordapp.com/attachments/1184197305239359619/1184197319151861860/image.png?ex=658b18b2&is=6578a3b2&hm=3f05f559ea3de8d87adc0b38184921c5286e4085b966a634d581d788b7d768af&)
 
 
 ## 🛠 Do zrobienia:
